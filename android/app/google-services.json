@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893217259145",
+    "project_id": "sahabat-tugas",
+    "storage_bucket": "sahabat-tugas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893217259145:android:f972d3952667d5b2e5d058",
+        "android_client_info": {
+          "package_name": "com.bimsina.components"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmkmLBLXJDeYTBXP7YKCyw_Kfia8Jt64E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
